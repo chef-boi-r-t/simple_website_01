@@ -4,3 +4,9 @@ This was an incredibly simple website I built for fun, beginning to jog my memor
 If you happen to glance at this, feel free to comment on the layout, structure, or organization of the guts - I'm always trying to grow. 
 
 Have a good day!
+
+DISCLAIMER:
+The "background-art.png" image used as the background is my own artwork, therefore requires no license.
+
+However, the social media icons were procured for free with the Personal Use license through Flaticon. Here is the attribution, left out of the code for the sake of minimalism:
+"Icon(s) made by Freepik from www.flaticon.com"
